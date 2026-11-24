@@ -1,0 +1,17 @@
+{
+  "keys": [
+    {
+      "alg": "ES256",
+      "crv": "P-256",
+      "kty": "EC",
+      "use": "sig",
+      "x": "H9fh2JXRCr0nU_o_Hd8OiGJ-QbRZ9SL6LwwOHvyxk7o",
+      "y": "HGO138uFQkKP30wRH7ywh3M8VlSQkWrOzKIRuQyPQ9E",
+      "kid": "2026-11-24_9cd",
+      "aauth": {
+        "device": "yailosx",
+        "created": "2026-11-24"
+      }
+    }
+  ]
+}

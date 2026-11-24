@@ -1,0 +1,6 @@
+{
+  "issuer": "https://violinmoksha.github.io",
+  "jwks_uri": "https://violinmoksha.github.io/.well-known/jwks.json",
+  "client_name": "Violinmoksha",
+  "logo_uri": "https://avatars.githubusercontent.com/u/6202076?v=4"
+}
